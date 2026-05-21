@@ -1,6 +1,6 @@
 # Python Live Url Tracker
 
-This project was created with gemini AI. This project was made to test live url tracking to use for tracking projects where url needs to be collected automatically.
+This project was created with gemini AI. This project was made to test live url tracking to use for tracking projects where url needs to be collected automatically.  
 ![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXMyOWliZWVtMGoyenpidGw4eWlsbHVwbWltZWpjN20yZzd5aWlzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hmVy6WTCyGofvfe8Xa/giphy.gif)
 
 
