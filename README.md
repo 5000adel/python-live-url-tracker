@@ -32,7 +32,7 @@ Before running the program, a browser extension is required, which is included i
 Now that you have imported the extension, you should enable it and it should run in the background.
 
 ### Running the Program Itself
-On the previous instructions we did where we cloned the repository.
+On the previous instructions where we cloned the repository.
 ```
 git clone https://github.com/5000adel/python-live-url-tracker.git
 cd python-live-url-tracker
