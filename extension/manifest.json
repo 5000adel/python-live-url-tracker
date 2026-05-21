@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Auto URL Sender",
+    "version": "1.1",
+    "permissions": [
+        "tabs"
+    ],
+    "host_permissions": [
+        "",
+        "http://127.0.0.1:5000/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}

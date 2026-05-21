@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body { 
+      width: 200px; 
+      padding: 10px; 
+      font-family: sans-serif; 
+      text-align: center; 
+    }
+    button { 
+      padding: 8px 16px; 
+      cursor: pointer; 
+      background: #007bff; 
+      color: white; 
+      border: none; 
+      border-radius: 4px; 
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    p { 
+      margin-top: 10px; 
+      font-size: 14px; 
+      color: #333; 
+    }
+  </style>
+</head>
+<body>
+  <h3>URL Sender</h3>
+  
+  <!-- This is the button your popup.js script listens for -->
+  <button id="sendBtn">Send to Python</button>
+  
+  <!-- This empty paragraph is where the success/error message appears -->
+  <p id="status"></p>
+  
+  <!-- This connects your HTML interface to your JavaScript logic -->
+  <script src="popup.js"></script>
+</body>
+</html>
